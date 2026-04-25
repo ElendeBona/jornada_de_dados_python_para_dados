@@ -1,0 +1,3 @@
+print(len(input("Digite o seu nome: ")))
+# len() é uma função que retorna o número de caracteres em uma string. O input() é uma função que solicita ao usuário que insira um valor e retorna esse valor como uma string. Portanto, o código acima solicita ao usuário que digite seu nome e, em seguida, imprime o número de caracteres que o nome possui.
+# 'f' fstrings são uma forma de formatar strings em Python. Elas permitem que você insira expressões dentro de uma string, que serão avaliadas e substituídas pelo seu valor. Para criar uma f-string, basta colocar a letra 'f' antes da string e usar chaves {} para incluir as expressões que deseja formatar. Por exemplo:
